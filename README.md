@@ -1,2 +1,2 @@
 # linux-
-Inux Resisitory
+Echo Print "Linux Repository"
